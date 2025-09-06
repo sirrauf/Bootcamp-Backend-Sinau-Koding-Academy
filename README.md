@@ -4,9 +4,11 @@ Kumpulan file script dari Bootcamp Backend Developer Sinau Koding Academy
 
 Apa yang dibutuhkan?:
 
-1. IDE/Text Editor Intellij IDE Community: [Klik untuk download](https://www.jetbrains.com/idea/download/other.html)
-2. Java JDK 21: [Klik untuk download](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
-3. Apache Maven: [Klik untuk download](https://maven.apache.org/download.cgi)
+1. IDE/Text Editor Intellij IDE Community: [Klik untuk kunjungi](https://www.jetbrains.com/idea/download/other.html)
+2. Java JDK 21: [Klik untuk kunjungi](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html)
+3. Apache Maven: [Klik untuk kunjungi](https://maven.apache.org/download.cgi)
+
+NOTE PENTING: UNTUK MAVEN MOHON DOWNLOAD YANG BINARY DAN KEMUDIAN DI EKSTRAK KEDALAM FOLDER.
 
 Cara running:
 1. Install IDEA/ Text Editor Intellij
