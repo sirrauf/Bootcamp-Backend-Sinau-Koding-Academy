@@ -14,7 +14,8 @@ Cara running:
 1. Install IDEA/ Text Editor Intellij
 2. Buka Intellij,kemudian klik open folder project
 3. Pilih folder projects
-4. Klik icon icon play.
-5. Selesai
+4. Running Program dengan cara Klik icon play di script MainApp apabila buka project Tugas Bootcamp.
+5. Running Program dengan cara Klik icon play di script Main apabila buka project lain untuk SpringBoot Projec dengan cara klik run icon play.
+6. Selesai
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
